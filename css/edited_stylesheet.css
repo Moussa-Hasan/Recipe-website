@@ -1,0 +1,68 @@
+/* Header */
+header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #343a40;
+    margin-right: 1rem;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #007bff;
+  }
+  
+  .dropdown-menu {
+    background-color: #f8f9fa;
+    border: none;
+  }
+  
+  .dropdown-item {
+    color: #343a40;
+    font-weight: bold;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #e9ecef;
+    color: #007bff;
+  }
+  
+  .form-inline .input-group {
+    width: 100%;
+  }
+  
+  .container {
+    padding: 2rem 0rem;
+  }
+  
+  /* .modal-header .close {
+    margin-top: -1.5rem;
+  } */
+  
+  .form-title {
+    margin: -2rem 0rem 2rem;
+  }
+  
+  .btn-round {
+    border-radius: 3rem;
+  }
+  
+  .delimiter {
+    padding: 1rem;
+  }
+  
+  .social-buttons .btn {
+    margin: 0 0.5rem 1rem;
+  }
+  
+  .signup-section {
+    padding: 0.3rem 0rem;
+  }
